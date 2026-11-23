@@ -1,0 +1,5 @@
+# Ghidul de programe (opțional).
+# Pune aici câte un link către un ghid în format XMLTV (fișier .xml), câte unul pe linie.
+# Aplicația potrivește programele cu canalele după identificatorul canalului (tvg-id) din lista M3U.
+# Liniile care încep cu # sunt ignorate.
+# https://exemplu.ro/ghid.xml
