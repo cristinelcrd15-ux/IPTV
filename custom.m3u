@@ -1,6 +1,3 @@
 #EXTM3U
-# Canalele tale personale. Pentru fiecare canal adaugă două linii, ca mai jos:
-# #EXTINF:-1 group-title="Țara",Numele canalului
-# linkul-streamului
-#EXTINF:-1 group-title="Romania",Toonmax Romania (Feed 2)
+#EXTINF:-1 tvg-name="Toonmax Romania (Feed 2)" group-title="Romania",Toonmax Romania (Feed 2)
 http://bogdy23.home.ro:29920/iptv/channel/1.m3u8
